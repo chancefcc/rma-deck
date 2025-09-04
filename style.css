@@ -15,7 +15,7 @@
 body,
 .slidev-layout {
   font-family: "Exo 2", "Noto Serif SC", sans-serif; /* Updated body font */
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 /* --- Apply 'Inter' first for English, then
@@ -42,7 +42,7 @@ body,
 
 .slidev-layout ul li,
 .slidev-layout ol li {
-  line-height: 1.2;
+  line-height: 1.1;
   margin-bottom: 0.5rem;
 }
 
