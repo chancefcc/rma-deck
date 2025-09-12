@@ -35,13 +35,15 @@ left: false
 # 1. Executive Summary
 
 -   **Vision**: To establish a **data-driven B2B payment and finance service** for high-tech cross-border trade, transforming traditional payment and financing mechanisms.
--   **Key Partners**: This initiative is a strategic partnership between **RMAICT**, **Tikoly.com**, and **Breakpoints.live**..
--   **Problem Addressed**: Traditional cross-border supply chains lack transparency and trust regarding delivery, performance, and quality, leading to high intermediation costs, price uncertainty, and slow, costly manual payment systems.
--   **Our Solution**: RMA Finance leverages a **hybrid model of on-chain data verification and off-chain compliant settlement** on Solana.
-    -   Utilizes Tikoly.com's decentralized data oracle marketplace and RMAICT’s extensive IT solutions experience.
-    -   Employs the **Solana blockchain for a transparent, auditable partner-to-partner ledger**.
+-   **Key Partners**: This initiative is a strategic partnership between **RMAICT** and **Breakpoints.live**, over the many AI x Blockchain projects such as,
+    - **Tikoly.com**, _Market Network for Renewable Energy_
+    - **Tiktag.app**, _End-to-End Marketplace for Renewable Energy Systems_
+-   **Problem Addressed**: Traditional corss-boarder renewable energy supply chains lack transparency and efficiency leading to high intermediation costs, slow and costly manual payment systems.
+-   **Our Solution**: RMA Finance leverages a **hybrid model of on-chain data verification and off-chain compliant settlement** over compliant blockchains.
+    -   Utilizes decentralized data oracle marketplace and RMAICT’s extensive IT solutions experience.
+    -   Employs the **blockchain for a transparent, auditable partner-to-partner ledger**.
     -   Leverages China banks' **CIPS clearing service for compliant final settlement** in cross-border transactions, starting with Malaysia.
--   **Core Value**: To provide **unprecedented trust and efficiency** to traditionally illiquid supply chains, bridging traditional finance with new-age digital services.
+-   **Core Value**: To provide **unprecedented trust, financial and operational efficiency** to traditionally illiquid supply chains, bridging together tech trade on latest fintech rails.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -55,10 +57,6 @@ left: false
 ### Tikoly Network: A Decentralized Verification Layer
 -   **Core Mission**: To solve the _trust bottleneck_ in verifying off-chain energy data by replacing trusted intermediaries with **cryptographic proofs using Zero-Knowledge Proofs over TLS (zkTLS)**.
 -   **Key Offerings**: Provides Real World Asset (RWA) data oracles, Application-to-Application (A2A) smart contracts, and a robust Solana Program Library (SPL) ledger-based ecosystem.
--   **Tokenomics**: Employs a **multi-token system on Solana**:
-    -   **TIKO**: The native utility token, primary medium of exchange, base liquidity asset, and instrument for staking and governance.
-    -   **FTIKO (Forward TIKO)**: Project-specific SPL tokens representing verifiable claims on future kWh of electricity, used by energy producers to raise capital upfront.
-    - **PayFi** running on the risk-balanced **Dual Flow Batch Auction (DFBA)**: A specialized mechanism for value exchange (payments), designed for large, illiquid, and project-based assets, preventing front-running and ensuring uniform pricing.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -71,9 +69,10 @@ left: false
 
 ### Project tiktag.app: The Edge Data & Solution Platform
 TikTag.app provides an integrated platform for solar panel installers and vendors, streamlining solution design and product catalog management.
--  **TikTag Studio**: AI tools for speeding up vendors and installers collaboration on renewable energy solutions.
+
+**TikTag Studio**: AI tools for speeding up vendors and installers collaboration on renewable energy solutions.
 - **Verifiable Impact**: Makes operational data accessible and verifiable, building "trustless trust" with donors by providing auditable proof of asset operation and social impact (e.g., in _Project Volta_ smart cooker donations) .
--  **Data Integrity & Privacy**: Ensures data integrity through **on-chain proof anchoring** for database states and uses **Zero-Knowledge Proofs (ZKPs)** for completeness and commercial privacy.
+-  **Data Integrity & Privacy**: Ensures data integrity through _on-chain proof anchoring_ for database states and uses _Zero-Knowledge Proofs (ZKPs)_ for completeness and commercial privacy.
 -  **Duo-Token System**: Utilizes **TIK (Utility Token)** for computational costs of AI simulations and **TAG (Solution Token)** for confirmed, verified, and actionable solutions stored persistently.
 -  **Tiktag Node Staking**: Data-staking and tokenomics to enable renewable system SKU knowledge exchanges.
 
@@ -174,9 +173,9 @@ left: false
 
 # 5. What's Next  (1/2)
 
-### Breakpoints.live Services for RMA Finance
+### Leveraging Breakpoints.live Services
 -   **Accelerator Program**: Breakpoints.live operates as an accelerator for AI and Web3 startups, specializing in connecting visionary talent and fostering innovation.
--   **Strategic Support**: Breakpoints.live will provide crucial **strategic acceleration, mentorship, and industry connections** to propel RMA Finance's growth.
+-   **Strategic Support**: Breakpoints.live will provide crucial _strategic acceleration, mentorship, and industry connections_ to propel RMA Finance's growth.
 -   **Joint Responsibilities**: As a joint partner, Breakpoints.live will also contribute to marketing, community building, navigating legal & compliance frameworks, overseeing security audits, and driving continuous innovation for RMA Finance.
 
 ### Key Business Activities
@@ -194,10 +193,14 @@ left: false
 
 # 5. What's Next (2/2)
 
-- **Staged Project Vesting**:
+### **Staged Project Vesting**:
   -  **De-risk Initial Engagement**: Start with a consulting role to assess project viability and organizational alignment without significant time or capital commitments.
   -  **Scale Contribution and Ownership**: Provide a clear path to ownership by transitioning to token-holding or vested roles, incentivizing long-term commitment directly tied to the project’s growth.
   -  **Diversify Personal Portfolio**: Allow founders to engage with multiple projects at various stages, spreading expertise and mitigating risk while maximizing potential returns.
+
+### Bootstrapping _Selangor Digital Energy Labs_
+  - Form a joint-initiative among RMAICT, Breakpoints.live, GBATA and other partners to propose a Malaysian NGO think-tank, the _Selangor Digital Energy Labs_
+  - For the purpose of fostering collaboration and innovation, the labs will focus on developing cutting-edge solutions for renewable energy and smart agriculture, leveraging blockchain technology and decentralized finance principles.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -225,8 +228,8 @@ left: false
 
 -   **Synergistic Partnership**: RMAICT brings deep industry knowledge and local implementation, Tikoly.com provides the foundational Web3 infrastructure and data oracle expertise, and Breakpoints.live offers strategic acceleration and investor connections.
 -   **Anticipated Impact**:
-    -   **Enhanced Financial Inclusion** for farmers and small businesses [49].
-    -   **Increased Transparency & Trust** in cross-border supply chains [49].
-    -   **Efficient B2B Payments** with automated reconciliation and lower costs [57].
-    -   **New Investment Opportunities** in a verifiable asset class [57].
-    -   **Economic Empowerment** through better business management and access to finance [57].
+    -   **Enhanced Financial Inclusion** for farmers and small businesses.
+    -   **Increased Transparency & Trust** in cross-border supply chains.
+    -   **Efficient B2B Payments** with automated reconciliation and lower costs.
+    -   **New Investment Opportunities** in a verifiable asset class.
+    -   **Economic Empowerment** through better business management and access to finance.
