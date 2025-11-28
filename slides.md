@@ -64,7 +64,7 @@ Leveraging Breakpoints.live's agentic system design expertise and RMAICT's autom
 - **Technical Backbone**: Data oracle networks for decentralized verification layer for RWAs, A2A smart contracts and x402 compliant settlements.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/pedro-miguel-aires-hJiEvAc79Xw-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
@@ -86,7 +86,7 @@ A critical product theme is implementing technology for decentralized energy and
 -  **Tiktag Node Staking**: Data-staking and tokenomics to enable renewable system SKU knowledge exchanges.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/amjith-s-AzNc9g-gJxA-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: true
@@ -111,7 +111,7 @@ New ventures transition from traditional fee-for-service/project-based models to
 The model uses Staged Project Vesting and token-holding roles to secure long-term commitment and align builders' success with project growth. Fractional CXO roles and token ownership for Web3 x AI projects.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/navi-vL0F-1-pruk-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
@@ -137,7 +137,7 @@ Breakpoints Innovation serves as the nexus for transformation, leveraging the co
 -  Assess regulatory landscapes (starting with Malaysia) and develop compliance strategies.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/navi-vL0F-1-pruk-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: true
@@ -174,7 +174,7 @@ left: false
 -   Explore cross-chain interoperability for broader reach.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/mohammadreza-alidoost-_EoTy8Wkf9s-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: true
@@ -197,7 +197,7 @@ left: true
 
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/aboodi-vesakaran-3EWnYokNoiM-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: true
@@ -223,7 +223,7 @@ A PMO will oversee the partnership's strategic direction and execution, with res
 - Ensuring alignment with the Shared Thesis.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/aboodi-vesakaran-3EWnYokNoiM-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
@@ -244,7 +244,7 @@ left: false
   - Allow portfolio diversification across multiple projects.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/alex-perez-wEgR12N01Tk-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: true
@@ -267,7 +267,7 @@ Breakpoints Innovation shifts from traditional B2B digital transformation projec
 - **Governance**: Robust PMO framework and DFBA model for risk mitigation and compliance.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+image: https://assets.breakpoints.live/deck/ultimate-safaris-namibia-AcU_rUOozDI-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
