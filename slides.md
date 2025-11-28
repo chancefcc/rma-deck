@@ -1,10 +1,10 @@
 ---
 theme: light-icons
 background: https://source.unsplash.com/collection/94734566/1920x1080
-title: 'Breakpoints.live Service Brochure'
+title: 'Breakpoints Innovation: From Enterprise Solutions to Tokenized, Resilient Innovation'
 info: |
-  ## Breakpoints.live Service
-  Accelerator for AI and Web3 startups. We connect, inspire and build.
+  ## Breakpoints Innovation
+  Bridging enterprise infrastructure and frontier tech to build resilient, tokenized ventures.
 drawings:
   persist: false
 colorSchema: auto
@@ -19,11 +19,12 @@ left: false
 # Align the main text content
 class: 'text-left'
 ---
-<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
 
-# RMAICT + Breakpoints Partnership Proposal
+# Breakpoints Innovation
 
-### Revolutionizing B2B Payments in Smart Agriculture & Renewable Energy
+#### From Enterprise Solutions to Tokenized, Resilient Innovation
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -31,19 +32,36 @@ layout: dynamic-image
 equal: false
 left: false
 ---
+
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
 
 # 1. Executive Summary
 
--   **Vision**: To establish a **data-driven B2B payment and finance service** for high-tech cross-border trade, transforming traditional payment and financing mechanisms.
--   **Key Partners**: This initiative is a strategic partnership between **RMAICT** and **Breakpoints.live**, over the many AI x Blockchain projects such as,
-    - **Tikoly.com**, _Market Network for Renewable Energy_
-    - **Tiktag.app**, _End-to-End Marketplace for Renewable Energy Systems_
--   **Problem Addressed**: Traditional corss-boarder renewable energy supply chains lack transparency and efficiency leading to high intermediation costs, slow and costly manual payment systems.
--   **Our Solution**: RMA Finance leverages a **hybrid model of on-chain data verification and off-chain compliant settlement** over compliant blockchains.
-    -   Utilizes decentralized data oracle marketplace and RMAICT’s extensive IT solutions experience.
-    -   Employs the **blockchain for a transparent, auditable partner-to-partner ledger**.
-    -   Leverages China banks' **CIPS clearing service for compliant final settlement** in cross-border transactions, starting with Malaysia.
--   **Core Value**: To provide **unprecedented trust, financial and operational efficiency** to traditionally illiquid supply chains, bridging together tech trade on latest fintech rails.
+-   **Strategic Thesis**: Shift from traditional B2B digital transformation projects to **product-oriented ventures** with **inherent resilience, decentralized ownership, and self-financing capabilities**.
+-   **Core Partnership**: Merge RMAICT's established B2B digital transformation infrastructure in Southeast Asia with Breakpoints.live's expertise in decentralized technologies and agentic systems, creating ventures funded by open crypto financing.
+-   **Focus Areas**: _Decentralized AI (DeAI)_, _Web3 (PayFi and Tokenization)_, and _Sustainable Technologies_.
+-   **Key Product Themes**: Agentic systems for integrated digital services, and decentralized sustainable infrastructure.
+-   **Business Model Focus**: Tokenized ownership and open financing using **Payment Finance (PayFi)** with stablecoins for cross-border commerce, and staged project vesting for long-term ownership.
+
+---
+image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: true
+---
+
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
+
+# 2. Core Focus: Agentic Systems and Decentralized Infrastructure
+
+### 2.1 Agentic Systems for Integrated Digital Services
+Leveraging Breakpoints.live's agentic system design expertise and RMAICT's automation strength, we create autonomous digital services that transform traditional B2B processes.
+
+- **Target Audience**: Enterprise-grade digital solutions bridging Web2 and Web3, with a focus on resilient, decentralized, and self-financing ventures.
+- **Application**: Agentic systems intelligently optimize supply chain, financial management, and retail execution processes.
+- **Technical Backbone**: Data oracle networks for decentralized verification layer for RWAs, A2A smart contracts and x402 compliant settlements.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -52,26 +70,17 @@ equal: false
 left: false
 ---
 
-# 2. Solution and Projects (1/2)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
 
-### Tikoly Network: A Decentralized Verification Layer
--   **Core Mission**: To solve the _trust bottleneck_ in verifying off-chain energy data by replacing trusted intermediaries with **cryptographic proofs using Zero-Knowledge Proofs over TLS (zkTLS)**.
--   **Key Offerings**: Provides Real World Asset (RWA) data oracles, Application-to-Application (A2A) smart contracts, and a robust Solana Program Library (SPL) ledger-based ecosystem.
+## 2.2 Decentralized Sustainable Infrastructure
 
----
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
-layout: dynamic-image
-equal: false
-left: false
----
+A critical product theme is implementing technology for decentralized energy and digital network infrastructure to create robust community networks.
 
-# 2. Solution and Projects (2/2)
+[tiktag.app](https://tiktag.app), the renewable energy system market network, provides an integrated platform for solar panel installers and vendors, streamlining solution design and product catalog management.
 
-### Project tiktag.app: The Edge Data & Solution Platform
-TikTag.app provides an integrated platform for solar panel installers and vendors, streamlining solution design and product catalog management.
-
-**TikTag Studio**: AI tools for speeding up vendors and installers collaboration on renewable energy solutions.
-- **Verifiable Impact**: Makes operational data accessible and verifiable, building "trustless trust" with donors by providing auditable proof of asset operation and social impact (e.g., in _Project Volta_ smart cooker donations) .
+**Tiktag Studio**: AI tools for speeding up vendors and installers collaboration on renewable energy solutions.
+- **Verifiable Impact**: Makes operational data accessible and verifiable, building _trustless trust_ with customers.
 -  **Data Integrity & Privacy**: Ensures data integrity through _on-chain proof anchoring_ for database states and uses _Zero-Knowledge Proofs (ZKPs)_ for completeness and commercial privacy.
 -  **Duo-Token System**: Utilizes **TIK (Utility Token)** for computational costs of AI simulations and **TAG (Solution Token)** for confirmed, verified, and actionable solutions stored persistently.
 -  **Tiktag Node Staking**: Data-staking and tokenomics to enable renewable system SKU knowledge exchanges.
@@ -80,16 +89,26 @@ TikTag.app provides an integrated platform for solar panel installers and vendor
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
 layout: dynamic-image
 equal: false
-left: false
+left: true
 ---
 
-# 3. ROI and Roadmap (1/3)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
 
-### RMA Finance Advantages & ROI
--   **Data-Backed Financing**: The _PayFi_ approach enables financing based on future income or receivables, leveraging Tikoly.com's data oracle service for project-specific risk assessment and token valuation.
--   **Target Market**: Focuses on **less liquid and more opaque markets** like futures for farm produce, renewable energy projects, and recycled materials, where tokenization provides maximum efficiency gains.
--   **Efficiency & Transparency**: Offers a superior service that is **faster, cheaper, and more transparent** due to its hybrid model of on-chain data verification and off-chain compliant settlement.
--   **Automated Payment Orchestration**: Solana smart contracts act as a coordination layer, triggering compliant payment messages to traditional clearing systems (CIPS) when on-chain conditions are met.
+# 3. Tokenized Ownership and Open Financing
+
+To achieve global scalability and resilience against geopolitical fragmentation, new ventures adopt a financial framework utilizing crypto/open financing.
+
+**3.1 Tokenization for Equity and Service Sales (PayFi)**
+
+New ventures transition from traditional fee-for-service/project-based models to tokenized systems for platform service and sales.
+
+- **Mechanism**: **Payment Finance (PayFi)** leverages Web3 technologies like stablecoins and tokenization for faster, cheaper, more resilient cross-border commerce.
+- **RMA Finance**: Utilizes Dual Flow Batch Auction (DFBA) model for intrinsic low-risk profile, ensuring alignment with PMO requirements (risk mitigation, compliance, structured cross-border RWA financing).
+
+**3.2 Tokenized Long-Term Ownership**
+
+The model uses Staged Project Vesting and token-holding roles to secure long-term commitment and align builders' success with project growth. Fractional CXO roles and token ownership for Web3 x AI projects.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -98,21 +117,41 @@ equal: false
 left: false
 ---
 
-# 3. ROI and Roadmap (2/3)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
+
+# 4. Geography & Roadmap (1/2)
+
+Breakpoints Innovation serves as the nexus for transformation, leveraging the combined presence in the **New Asia corridor, GBA China, ASEAN, and other emerging markets**.
+
+### Geographic Hubs
+- **RMAICT Hubs**: Malaysia, Hong Kong, Singapore, Indonesia, Vietnam
+- **Venture Acceleration**: Launch ventures through RMAICT HK to accelerate companies focused on resilient cross-border **PayFi, DeAI, and Sustainable Tech** solutions.
 
 ### Roadmap: From Funding to Operational Readiness
 
 **Phase 1: Concept & Fund-raising**
--  Define core RMAT (utility, governance, staking) and future project tokens (FTIKO).
+-  Define core tokens (utility, governance, staking) and future project tokens.
 -  Publish comprehensive whitepaper.
 -  Leverage Breakpoints.live network for initial capital, conduct token sales, and seek grant funding.
 -  Assess regulatory landscapes (starting with Malaysia) and develop compliance strategies.
 
+---
+image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: true
+---
+
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
+
+# 4. Geography & Roadmap (2/2)
+
 **Phase 2: Platform Development & Pilot**
 -  Develop smart contracts for the partner-to-partner ledger.
 -  Build APIs and middleware for **CIPS integration**.
--  Integrate **Tiktag Nodes** for granular, cryptographically signed, time-stamped Resource Usage Event Records, feeding custom oracle data on-chain.
--  Develop user interfaces (Installers/Vendors apps, Marketplace Dashboard) .
+-  Develop user interfaces
 -   **Pilot project in Malaysia** to validate end-to-end processes and gather feedback.
 
 ---
@@ -122,7 +161,10 @@ equal: false
 left: false
 ---
 
-# 3. ROI and Roadmap (3/3)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
+
+# 5. Expanded Governance & Funding
 
 **Phase 3: Expansion & Governance**
 -   Expand marketplace across ASEAN and into new verticals (renewable energy, recycling batteries, etc.).
@@ -135,34 +177,50 @@ left: false
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
 layout: dynamic-image
 equal: false
-left: false
+left: true
 ---
 
-# 4. Fund-raising Strategy (1/2)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
 
-### RMA Finance as the Singapore Entity with Tikoly.com as the PayFi Platform
--   **RMA Finance Vision**: To become a leading data-driven B2B payment and finance service, with a strategic focus on the smart agriculture and renewable energy sectors in ASEAN. The Singapore entity aims to provide a robust, compliant, and scalable platform for these operations.
--   **Tikoly.com's Role**: Operates as a **decentralized data marketplace and data oracle service**, specifically designed for verifiable real-world data, enabling sustainable financing on B2B PayFi. Its core offerings (RWA data oracles, A2A smart contracts, SPL ledger) form the technical backbone of the PayFi platform.
--   **PayFi Concept**: A data-backed B2B payment and finance service that allows financing based on future income or receivables, crucial for unlocking illiquid Real World Assets.
+# 6. Fundraising Strategy
 
----
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
-layout: dynamic-image
-equal: false
-left: false
----
+### RMA Finance and DFBA Model
+- **RMA Finance**: Utilizes the Dual Flow Batch Auction (DFBA) model for structured cross-border RWA financing, ensuring risk mitigation, compliance, and tangible ROI calculation.
+- **DFBA Benefits for Investors**: Guaranteed price integrity, prevention of market manipulation, secure compliance with Hong Kong SAR legal framework, alignment with real-world asset cycles.
 
-# 4. Fund-raising Strategy (2/2)
-
-### Fundraising Strategy (Phase 1)
+### Funding Approach
 -   **Initial Capital**: Leverage the **Breakpoints.live network** to attract early-stage Web3 and AI investors, including traditional VCs and impact investors.
-    -   Breakpoints.live is a startup accelerator that connects, inspires, and builds the future of AI and Web3 startups, with core members from the Tikoly.com team.
-    -   Breakpoints.live provides **strategic acceleration, investor connections**, and thought leadership for this venture.
--   **Token Sale**:
-    - Conduct a public or private sale of **RFT tokens** (RMA Finance Token) to bootstrap initial capital for platform development and operations.
-    -   RMAT will serve as the utility, governance, and staking token for the RMA Finance ecosystem.
--   **Grant Funding**:
-    - Actively explore and apply for grants related to agricultural development, financial inclusion, and blockchain innovation, such as [those from the Solana Foundation](https://solana.org/grants-funding).
+    -   Breakpoints.live provides **strategic acceleration, investor connections**, and thought leadership.
+-   **Tokenization**: Uses tokenized systems for platform service and sales, with stablecoins for price stability in cross-border payments.
+-   **Grant Funding**: Explore grants from the Solana Foundation and other blockchain/innovation grant programs.
+
+
+---
+image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: true
+---
+
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
+
+# 7. Partnership (1/2)
+
+**Strategic Partnership MoU**
+
+The partnership between RMAICT and Breakpoints.live is formalized through a non-binding MoU, with key areas of cooperation:
+- **Technology & Product Integration**: Converging RMAICT's B2B infrastructure with Breakpoints.live's decentralized tech expertise.
+- **Venture Incubation**: Identifying and launching product-oriented ventures focusing on resilient infrastructure and tokenized models.
+- **Market Acceleration**: Utilizing RMAICT's enterprise client base for pilot projects and early adoption.
+
+**Project Management Office (PMO)**
+
+A PMO will oversee the partnership's strategic direction and execution, with responsibilities:
+- Approving venture proposals.
+- Coordinating resource allocation and shared development roadmaps.
+- Ensuring alignment with the Shared Thesis.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -171,18 +229,42 @@ equal: false
 left: false
 ---
 
-# 5. What's Next  (1/2)
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
 
-### Leveraging Breakpoints.live Services
--   **Accelerator Program**: Breakpoints.live operates as an accelerator for AI and Web3 startups, specializing in connecting visionary talent and fostering innovation.
--   **Strategic Support**: Breakpoints.live will provide crucial _strategic acceleration, mentorship, and industry connections_ to propel RMA Finance's growth.
--   **Joint Responsibilities**: As a joint partner, Breakpoints.live will also contribute to marketing, community building, navigating legal & compliance frameworks, overseeing security audits, and driving continuous innovation for RMA Finance.
+# 7. Partnership (2/2)
 
-### Key Business Activities
-- **Build-in-Public Calls**
-  - Foster Trust & Transparency
-  - Accelerate Feedback & Innovation
-  - Grow a Dedicated Community
+**Key Business Activities**
+
+- **Weekly Partners Check-ins** to ensure alignment and collaboration.
+- **Build-in-Public Calls** to foster trust, accelerate innovation, and grow the community.
+- **Staged Project Vesting** for long-term commitment:
+  - De-risk initial engagement with consulting roles.
+  - Scale ownership via token-holding roles.
+  - Allow portfolio diversification across multiple projects.
+
+---
+image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: true
+---
+
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
+
+# 8. Summary & Impact (1/2)
+
+**Strategic Thesis Realization**
+
+Breakpoints Innovation shifts from traditional B2B digital transformation projects to **product-oriented ventures** with inherent resilience, decentralized ownership, and self-financing capabilities.
+
+**Core Strengths**
+
+- **Converged Capabilities**: Merges RMAICT's enterprise delivery with Breakpoints.live's decentralized tech expertise.
+- **Innovative Model**: Tokenized ownership and open financing using **PayFi** with stablecoins for cross-border commerce.
+- **Geographic Nexus**: Strategic position in the New Asia corridor (GBA, ASEAN, Proxy Economies of China).
+- **Governance**: Robust PMO framework and DFBA model for risk mitigation and compliance.
 
 ---
 image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
@@ -190,46 +272,64 @@ layout: dynamic-image
 equal: false
 left: false
 ---
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 125px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
 
-# 5. What's Next (2/2)
+# 8. Summary & Impact (2/2)
 
-### **Staged Project Vesting**:
-  -  **De-risk Initial Engagement**: Start with a consulting role to assess project viability and organizational alignment without significant time or capital commitments.
-  -  **Scale Contribution and Ownership**: Provide a clear path to ownership by transitioning to token-holding or vested roles, incentivizing long-term commitment directly tied to the project’s growth.
-  -  **Diversify Personal Portfolio**: Allow founders to engage with multiple projects at various stages, spreading expertise and mitigating risk while maximizing potential returns.
+**Anticipated Impact**
 
-### Bootstrapping _Selangor Digital Energy Labs_
-  - Form a joint-initiative among RMAICT, Breakpoints.live, GBATA and other partners to propose a Malaysian NGO think-tank, the _Selangor Digital Energy Labs_
-  - For the purpose of fostering collaboration and innovation, the labs will focus on developing cutting-edge solutions for renewable energy and smart agriculture, leveraging blockchain technology and decentralized finance principles.
+- **Resilient Infrastructure**: Decentralized energy and digital network solutions for community resilience.
+- **Empowered Builders**: Platform for Future Makers to develop AI-Generated Content and one-person enterprises.
+- **Revolutionized Finance**: Data-backed B2B payment and finance services with transparent, auditable processes.
+- **Global Scalability**: Scalable model leveraging Web3 technologies for cross-border commerce.
+
+**Sound DeFi Model with DFBA**
+- **Risk Mitigation**, **Compliant**, and 
+- **ROI Calculation**: Tangible, measurable outcomes tied to real-world asset cycles.
+
+**Partnership Synergy**
+- **RMAICT**: Enterprise B2B infrastructure and delivery expertise across SEA.
+- **Breakpoints.live**: Decentralized tech and agentic systems accelerator.
+- **Joint Goal**: Accelerate resilient cross-border **PayFi, DeAI, and Sustainable Tech** solutions in the New Asia corridor.
 
 ---
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
+title: 'Contact Us'
+info: 'Get in touch to learn more.'
+image: https://assets.breakpoints.live/deck/mikaela-wiedenhoff-AwmCuTXL97Q-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
 ---
+<img border="rounded" src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 125px;">
 
-# 6. Summary (1/2)
+# Get in Touch
 
--   **Transformative Vision**: RMA Finance, supported by Breakpoints.live, aims to **revolutionize B2B payments** in smart agriculture and renewable energy, establishing a transparent, efficient, and data-backed financial service.
--   **Hybrid Approach**: The core strength lies in combining **on-chain data verification** (Solana SPL ledger, Tikoly's RWA data oracles, Tiktag Edge Nodes for verifiable data streams) with **off-chain compliant settlement** (CIPS clearing service).
--   **Leveraging Innovation**: The partnership will fully utilize Solana's architecture and advanced SPL Token-2022 extensions, alongside Tikoly's multi-token system (TIKO/FTIKO) and DFBA model, to create **tokenized RWAs** and ensure fair, transparent value exchange for illiquid assets.
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="mailto:chance@breakpoints.live" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+      <light-icon icon="mail-opened" size="24px" />
+    <span>Email for enquiry</span>
+  </a>
+</div>
 
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/company/breakpointslive" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+      <light-icon icon="brand-linkedin" size="24px" />
+    <span>Connect us via LinkedIn</span>
+  </a>
+</div>
 
----
-image: https://assets.breakpoints.live/deck/paymo-zLp42A2k5Dw-unsplash.jpg
-layout: dynamic-image
-equal: false
-left: false
----
-<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="https://x.com/breakpointslive" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+      <light-icon icon="brand-twitter" size="24px" />
+    <span>Join our X.com conversation</span>
+  </a>
+</div>
 
-# 6. Summary (2/2)
-
--   **Synergistic Partnership**: RMAICT brings deep industry knowledge and local implementation, Tikoly.com provides the foundational Web3 infrastructure and data oracle expertise, and Breakpoints.live offers strategic acceleration and investor connections.
--   **Anticipated Impact**:
-    -   **Enhanced Financial Inclusion** for farmers and small businesses.
-    -   **Increased Transparency & Trust** in cross-border supply chains.
-    -   **Efficient B2B Payments** with automated reconciliation and lower costs.
-    -   **New Investment Opportunities** in a verifiable asset class.
-    -   **Economic Empowerment** through better business management and access to finance.
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="https://youtube.com/@breakpointslive" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+      <light-icon icon="brand-youtube" size="24px" />
+    <span>Watch our videos at  YouTube</span>
+  </a>
+</div>

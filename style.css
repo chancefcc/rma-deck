@@ -114,7 +114,42 @@ html:not(.dark) .slidev-layout h6 {
 
 /* Add any other custom CSS overrides below */
 
+/* Logo styling improvements */
+img[src*="bpdao-logo.png"],
+img[src*="rmaict-logo.png"] {
+  border-radius: 8px !important; /* Ensure consistent rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important; /* Add subtle shadow for depth */
+  transition: all 0.3s ease !important; /* Smooth transition for any hover effects */
+}
+
 /* Ensure 'Private Round I Fundraising Deck' on cover slide is dark in light mode */
 html:not(.dark) .slidev-layout.cover p strong {
   color: var(--light-text-color) !important;
+}
+
+/* Enhanced list styling */
+.slidev-layout ul {
+  list-style: none; /* Remove default bullet points */
+  padding-left: 0; /* Remove default padding */
+}
+
+.slidev-layout ul li::before {
+  content: "•"; /* Custom bullet character */
+  color: var(--primary-color); /* Use primary color for bullets */
+  font-weight: bold; /* Make bullets bold */
+  display: inline-block; 
+  width: 1em; /* Fixed width for alignment */
+  margin-left: -1em; /* Align bullets with text */
+}
+
+/* Improved link styling */
+.slidev-layout a {
+  color: var(--primary-color); /* Use primary color for links */
+  text-decoration: underline; /* Add underline */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.slidev-layout a:hover {
+  color: #006666; /* Darken primary color on hover */
+  text-decoration: none; /* Remove underline on hover */
 }
