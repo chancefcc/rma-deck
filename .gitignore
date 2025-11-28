@@ -5,6 +5,7 @@ dist
 .vite-inspect
 .remote-assets
 components.d.ts
+.slidev
 
 # Ignore cache folder - essential!
 /.yarn/cache
@@ -22,3 +23,6 @@ components.d.ts
 # Ignore Yarn Classic logs if they ever appear
 yarn-error.log
 .pnp.*
+
+# Ignore .clinerules files
+.clinerules
